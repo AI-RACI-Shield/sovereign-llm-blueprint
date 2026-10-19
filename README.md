@@ -47,7 +47,7 @@ In the full blueprint on Gumroad ($249.99), we provide the exact production-read
 • The 15-point U.S. Corporate Compliance Checklist.
 
 ### Get the Full Blueprint & Production Artifacts:
-https://corporatelegal.gumroad.com/l/sovereign-ai-pack
+https://corporatelegal.gumroad.com/l/sovereign-ai-pack?referrer=github
 
 ---
 
