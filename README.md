@@ -48,3 +48,13 @@ In the full blueprint on Gumroad ($249.99), we provide the exact production-read
 
 ### Get the Full Blueprint & Production Artifacts:
 https://corporatelegal.gumroad.com/l/sovereign-ai-pack
+
+---
+
+### Disclaimer & Limitation of Liability
+
+**Technical Notice:** This repository provides initial configuration artifacts (such as the Dockerfile) to demonstrate the architecture. While built according to industry standards, actual deployment outcomes depend entirely on your specific infrastructure environment. Users may encounter minor, easily resolvable technical glitches or require minor manual adjustments during environment setup.
+
+**Legal & Compliance Notice:** The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
+
+By cloning this repository or purchasing the full blueprint, you agree that the authors bear no financial, legal, regulatory, or civil liability for any system vulnerabilities, data leaks, financial losses, or non-compliance issues arising from your use, modification, or deployment of these artifacts. All materials are provided strictly on an **"AS IS"** basis.
