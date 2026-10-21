@@ -50,7 +50,20 @@ In the full distribution package on Gumroad, we provide the exact production-rea
 ### Get the Full Blueprint & Production Artifacts:
 https://corporatelegal.gumroad.com/l/sovereign-ai-pack?referrer=github
 
----
+## Frequently Asked Questions (Technical FAQ)
+
+### Q1: What are the minimum hardware requirements to deploy this high-availability cluster on-premises?
+**A:** To run an 8-bit quantized Llama-3 70B model with production-grade inference stability, the baseline configuration requires a dedicated bare-metal node equipped with at least **2x NVIDIA H100 PCIe (80GB VRAM each)** or **4x NVIDIA A100 (80GB VRAM each)** interconnected via high-bandwidth NVLink. A hardened Kubernetes cluster orchestrates pod scheduling, while inference engines (such as vLLM or TensorRT-LLM) handle optimized VRAM allocation and concurrent multi-agent retrieval loops.
+
+### Q2: How exactly does the Dual-Token Monitoring Framework detect "Model Drift"?
+**A:** The framework logs and evaluates token-embedding variance during runtime. It computes the statistical divergence (e.g., via cosine similarity or KL-divergence metrics) against a verified baseline semantic vector space. If a model's outputs shift beyond your predefined compliance threshold—indicating degradation or unexpected behavioral variance—the control layer flags the anomaly instantly before it corrupts downstream business logic.
+
+### Q3: Can this blueprint be deployed inside a strict air-gapped environment without any internet access?
+**A:** **Yes.** This architecture is explicitly engineered for sovereign, network-isolated environments. All open-weights model parameters, JSON schemas, and core container images must be pre-loaded into your internal, hardened container registry. Zero outbound telemetry, external webhooks, or third-party cloud API dependencies are required or permitted.
+
+### Q4: Does the Single Developer License include automated Scale-to-Zero configuration for GPU resources?
+**A:** No. The Single Developer License provides the foundational Kubernetes manifest blueprints for local staging, linting, and R&D verification. Advanced infrastructure automation—including dynamic KEDA-based Scale-to-Zero, multi-cluster geo-redundancy, and the 15-Point Hardened Security Audit Checklist—is exclusively available under the **Enterprise Corporate License**.
+
 
 ### Disclaimer & Limitation of Liability
 
