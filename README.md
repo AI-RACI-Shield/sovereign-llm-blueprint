@@ -59,10 +59,19 @@ https://corporatelegal.gumroad.com/l/sovereign-ai-pack?referrer=github
 **A:** The framework logs and evaluates token-embedding variance during runtime. It computes the statistical divergence (e.g., via cosine similarity or KL-divergence metrics) against a verified baseline semantic vector space. If a model's outputs shift beyond your predefined compliance threshold—indicating degradation or unexpected behavioral variance—the control layer flags the anomaly instantly before it corrupts downstream business logic.
 
 ### Q3: Can this blueprint be deployed inside a strict air-gapped environment without any internet access?
-**A:** **Yes.** This architecture is explicitly engineered for sovereign, network-isolated environments. All open-weights model parameters, JSON schemas, and core container images must be pre-loaded into your internal, hardened container registry. Zero outbound telemetry, external webhooks, or third-party cloud API dependencies are required or permitted.
+**A:** **Yes.** This architecture is explicitly engineered for sovereign, network-isolated environments. All open-weights model parameters, JSON schemas, and core container images must be pre-loaded into your internal, hardened container registry. Zero outbound telemetry, external webhooks, or third-party cloud API dependencies are involved or permitted.
 
 ### Q4: Does the Single Developer License include automated Scale-to-Zero configuration for GPU resources?
 **A:** No. The Single Developer License provides the foundational Kubernetes manifest blueprints for local staging, linting, and R&D verification. Advanced infrastructure automation—including dynamic KEDA-based Scale-to-Zero, multi-cluster geo-redundancy, and the 15-Point Hardened Security Audit Checklist—is exclusively available under the **Enterprise Corporate License**.
+
+## Disclaimer & Limitation of Liability
+
+**Technical Notice:** This repository provides initial configuration artifacts (such as Dockerfiles and Kubernetes manifests) to demonstrate the architecture. While built according to industry standards, actual deployment outcomes depend entirely on your specific infrastructure environment. Users may encounter minor, easily resolvable technical glitches or require minor manual adjustments during environment setup.
+
+**Legal & Compliance Notice:** The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
+
+By cloning this repository or purchasing the full blueprint, you agree that the authors bear no financial, legal, regulatory, or civil liability for any system vulnerabilities, data leaks, financial losses, or non-compliance issues.
+
 
 
 ### Disclaimer & Limitation of Liability
