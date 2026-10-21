@@ -41,10 +41,11 @@ Even when factoring in specialized MLOps engineering overhead, the structural ma
 ## The Execution Barrier
 However, raw compute infrastructure is useless without a deterministic control layer. Transitioning to an enterprise open-source stack exposes organizations to severe security, context-drift, and deployment complexities. 
 
-In the full blueprint on Gumroad ($249.99), we provide the exact production-ready artifacts to capture these savings safely:
-• Production Kubernetes/Docker YAMLs for instant secure deployment.
-• The proprietary Dual-Token Monitoring Framework code.
-• The 15-point U.S. Corporate Compliance Checklist.
+In the full distribution package on Gumroad, we provide the exact production-ready artifacts to capture these savings safely. Depending on your organization's deployment scale, you can select the appropriate tier:
+
+* **Single Developer License:** Grants access to the core JSON specifications, production Docker Compose enterprise stack, and foundational Kubernetes blueprints for R&D, evaluation, and personal testing environments.
+* **Enterprise Corporate License:** Fully cleared for multi-cluster production environments, high-availability live operations, and cross-departmental scaling. Includes the Dual-Token Monitoring Framework, Intent Drift Shield Protocols, and the 15-Point Hardened Audit Checklist for institutional compliance (GDPR, EU MiCA, OSFI).
+
 
 ### Get the Full Blueprint & Production Artifacts:
 https://corporatelegal.gumroad.com/l/sovereign-ai-pack?referrer=github
