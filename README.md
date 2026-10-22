@@ -45,8 +45,8 @@ However, raw compute infrastructure is useless without a deterministic control l
 
 In the full distribution package on Gumroad, we provide the exact production-ready artifacts to capture these savings safely. Depending on your organization's deployment scale, you can select the appropriate tier:
 
-* **Single Developer License:** Grants access to the core JSON specifications, production Docker Compose enterprise stack, and foundational Kubernetes blueprints for R&D, evaluation, and personal testing environments.
-* **Enterprise Corporate License:** Fully cleared for multi-cluster production environments, high-availability live operations, and cross-departmental scaling. Includes the Dual-Token Monitoring Framework, Model Drift Shield Protocols, and the 15-Point Hardened Security Audit Checklist for institutional compliance (GDPR, EU MiCA, OSFI).
+* **Single Developer License:** Grants access to the core JSON specifications, production Docker Compose enterprise stack, and foundational Kubernetes blueprints for R&D, evaluation, and personal testing environments. No ongoing technical support or future maintenance updates are included.
+* **Enterprise Corporate License:** Fully cleared for multi-cluster production environments, high-availability live operations, and cross-departmental scaling. Includes the Dual-Token Monitoring Framework (Model & Intent Drift shielding), KEDA-based Scale-to-Zero configurations, and the 15-Point Hardened Security Audit Checklist for institutional compliance (GDPR, EU MiCA, OSFI). Delivered strictly as a static, point-in-time asset delivery without future software updates, maintenance updates, or real-time SLA support obligations.
 
 
 
