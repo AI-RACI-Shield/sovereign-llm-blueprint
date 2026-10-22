@@ -72,11 +72,16 @@ https://corporatelegal.gumroad.com/l/sovereign-ai-pack
 
 ## Disclaimer & Limitation of Liability
 
-**TECHNICAL NOTICE & MAINTENANCE LIFECYCLE:** This repository provides static, single-point-in-time configuration artifacts (such as Dockerfiles and Kubernetes manifests) strictly to demonstrate the conceptual architecture. This product is delivered **"AS IS"** and **"WITH ALL FAULTS."** The authors bear **ZERO OBLIGATION** to provide any future updates, patches, version maintenance, technical support, or adaptations to evolving compliance standards, software versions, or infrastructure environment changes. Users assume all operational and financial responsibility for manual adjustments required during deployment.
+TECHNICAL NOTICE & MAINTENANCE LIFECYCLE: This repository provides static, single-time-in-point configuration artifacts (including but not limited to Dockerfiles, Kubernetes manifests, and JSON specifications) strictly to demonstrate conceptual architecture. This product is delivered "AS IS" and "WITH ALL FAULTS." The authors bear ZERO OBLIGATION to provide any future updates, patches, version maintenance, technical support, or adaptations to evolving compliance standards, software versions, or infrastructure environment changes. Users assume all operational and financial responsibility for manual adjustments required during deployment.
 
-**LEGAL & COMPLIANCE NOTICE:** The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
+LEGAL & COMPLIANCE NOTICE: The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
 
-**LIMITATION OF LIABILITY:** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, DATA LEAKS, SYSTEM VULNERABILITIES, FINANCIAL LOSSES, OR NON-COMPLIANCE ISSUES) ARISING OUT OF THE USE OF OR INABILITY TO USE THE BLUEPRINTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BY CLONING THIS REPOSITORY OR PURCHASING THE BLUEPRINT, YOU AGREE THAT THE AUTHORS' TOTAL AGGREGATE LIABILITY FOR ANY CLAIMS SHALL BE STRICTLY LIMITED TO $0.00.
+LIMITATION OF LIABILITY: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, DATA LEAKS, SYSTEM VULNERABILITIES, FINANCIAL LOSSES, OR NON-COMPLIANCE ISSUES) ARISING OUT OF THE USE OF OR INABILITY TO USE THE BLUEPRINTS AND ARTEFACTS. 
+
+BY CLONING THIS REPOSITORY, DOWNLOADING, OR PURCHASING THE BLUEPRINTS, YOU AGREE THAT THE AUTHORS' TOTAL AGGREGATE LIABILITY FOR ANY CLAIMS, DAMAGES, OR CAUSES OF ACTION ARISING UNDER UCC ARTICLE 2 OR COMMON LAW SHALL BE STRICTLY LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE LICENSE WITHIN THE GUMROAD PLATFORM (E.G., $249.99 FOR SINGLE DEVELOPER LICENSE OR $4,999.99 FOR ENTERPRISE CORPORATE LICENSE). IF NO PURCHASE WAS MADE, THE AGGREGATE LIABILITY IS STRICTLY LIMITED TO $0.00.
+
+UPON ANY REFUND, REVERSAL, OR TERMINATION OF THE LICENSE, THE USER MUST IMMEDIATELY CEASE ALL USE OF THE ARTEFACTS AND PERMANENTLY DELETE AND DESTROY ALL COPIES OF THE MANIFESTS, DOCKER-FILES, AND SPECIFICATIONS WITHIN THEIR INFRASTRUCTURE.
+
 
 
 
