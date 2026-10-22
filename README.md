@@ -72,11 +72,12 @@ https://corporatelegal.gumroad.com/l/sovereign-ai-pack
 
 ## Disclaimer & Limitation of Liability
 
-**Technical Notice:** This repository provides initial configuration artifacts (such as Dockerfiles and Kubernetes manifests) to demonstrate the architecture. While built according to industry standards, actual deployment outcomes depend entirely on your specific infrastructure environment. Users may encounter minor, easily resolvable technical glitches or require minor manual adjustments during environment setup.
+**TECHNICAL NOTICE & MAINTENANCE LIFECYCLE:** This repository provides static, single-point-in-time configuration artifacts (such as Dockerfiles and Kubernetes manifests) strictly to demonstrate the conceptual architecture. This product is delivered **"AS IS"** and **"WITH ALL FAULTS."** The authors bear **ZERO OBLIGATION** to provide any future updates, patches, version maintenance, technical support, or adaptations to evolving compliance standards, software versions, or infrastructure environment changes. Users assume all operational and financial responsibility for manual adjustments required during deployment.
 
-**Legal & Compliance Notice:** The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
+**LEGAL & COMPLIANCE NOTICE:** The materials, blueprints, and compliance checklists provided here and via third-party platforms (including Gumroad) are for educational, architectural, and informational purposes only. They do not constitute formal legal, regulatory, or corporate compliance advice. 
 
-By cloning this repository or purchasing the full blueprint, you agree that the authors bear no financial, legal, regulatory, or civil liability for any system vulnerabilities, data leaks, financial losses, or non-compliance issues.
+**LIMITATION OF LIABILITY:** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, DATA LEAKS, SYSTEM VULNERABILITIES, FINANCIAL LOSSES, OR NON-COMPLIANCE ISSUES) ARISING OUT OF THE USE OF OR INABILITY TO USE THE BLUEPRINTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BY CLONING THIS REPOSITORY OR PURCHASING THE BLUEPRINT, YOU AGREE THAT THE AUTHORS' TOTAL AGGREGATE LIABILITY FOR ANY CLAIMS SHALL BE STRICTLY LIMITED TO $0.00.
+
 
 
 
