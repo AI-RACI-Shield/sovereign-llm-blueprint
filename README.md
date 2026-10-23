@@ -1,3 +1,6 @@
+> 💡 **Looking for the Enterprise Production Package?** 
+> Get the full **Dual-Token Monitoring Framework**, **KEDA Scale-to-Zero configurations**, and **15-Point Hardened Security Audit Checklist** (GDPR/MiCA/OSFI) on [Gumroad Commercial Store](https://corporatelegal.gumroad.com/l/sovereign-ai-pack).
+
 # The Architecture of Control: Blueprint for Sovereign Open-Source LLM Deployments
 
 ## Executive Summary
