@@ -54,7 +54,11 @@ In the full distribution package on Gumroad, we provide the exact production-rea
 
 
 ### Get the Full Blueprint & Production Artifacts:
-[![Get it on Gumroad](https://shields.io)](https://corporatelegal.gumroad.com/l/sovereign-ai-pack)
+
+<a href="https://corporatelegal.gumroad.com/l/sovereign-ai-pack"><img src="https://shields.io" alt="Get it on Gumroad"></a>
+
+
+
 
 
 ## Frequently Asked Questions (Technical FAQ)
