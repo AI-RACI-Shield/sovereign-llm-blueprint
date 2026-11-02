@@ -1,5 +1,6 @@
 > 💡 **Looking for the Enterprise Production Package?** 
 > Get the full **Dual-Token Monitoring Framework**, **KEDA Scale-to-Zero configurations**, and **15-Point Hardened Security Audit Checklist** (GDPR/MiCA/OSFI) on [Gumroad Commercial Store](https://corporatelegal.gumroad.com/l/sovereign-ai-pack).
+> ⚠️ **Q4 Enterprise Notice:** Early-adoption pricing ($4,999.99) is strictly capped at 10 slots before reverting to the standard institutional rate ($7,500.00). To request a direct invoice, message us via LinkedIn.
 
 # The Architecture of Control: Blueprint for Sovereign Open-Source LLM Deployments
 
