@@ -1,5 +1,5 @@
 # Sovereign Enterprise LLM Inference Node Blueprint
-# Copyright (c) 2026 AI-RACI-Shield. All rights reserved.
+# Copyright (c) 2026 Aethel AI. All rights reserved.
 FROM vllm/vllm-openai:v0.4.2
 
 # Set corporate perimeter environment settings
